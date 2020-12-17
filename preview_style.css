@@ -1,0 +1,30 @@
+body {
+    background-image: url("/preview_page/preview_image.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -80px;
+    margin-top: -65px;
+    font-size: 50px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: blue;
+}
